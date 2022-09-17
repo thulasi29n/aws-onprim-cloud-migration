@@ -1,4 +1,4 @@
-# aws-onprim-cloud-migration
+# aws-onprimesis-cloud-migration
 Problem-Statement:
  Migration of a Workload running in a Corporate Data Center to AWS using the Amazon EC2 and RDS service.
  
